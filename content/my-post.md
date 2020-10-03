@@ -7,3 +7,4 @@ Author: Mintii
 Summary: Check out my first post!
 
 This is some super awesome content within my post!
+![Cutie the cat]({static}/images/cutie_the_cat.jpg)
