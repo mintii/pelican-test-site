@@ -3,7 +3,7 @@
 
 AUTHOR = 'Coltrane DaCat'
 SITENAME = 'Test Blog'
-SITEURL = ''
+SITEURL = 'https://quizzical-bartik-f5e425.netlify.app'
 
 PATH = 'content'
 
