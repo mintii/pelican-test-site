@@ -1,6 +1,6 @@
 Title: About Me
 Date: 2020-05-27 10:20
 Slug: about
-Authors: Frank Corso
+Authors: Mintii
 
-Hey there! My name is Frank Corso and it's nice to meet you.
+Hey there! My name isMintii and it's nice to meet you.

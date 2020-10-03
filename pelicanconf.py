@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = 'Coltrane DaCat'
+AUTHOR = 'Mintii'
 SITENAME = 'Test Blog'
-SITEURL = 'https://quizzical-bartik-f5e425.netlify.app'
+SITEURL = ''
 
 PATH = 'content'
 
@@ -29,7 +29,6 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = False
-THEME = "simple"
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
